@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlightXCaptain
 - 👀 I’m interested in Environment Automation using Powershell, Power Automate & Azure Automation Accounts
-- 🌱 I’m currently learning How to write API's using Powershell
+- 🌱 I’m currently learning How to write API's using Powershell & Host/Run them in Azure Automation.
 - 💞️ I’m looking to collaborate on all environment automation scripts. would love to create a library for all sys admins to reference.
   Im also interested in assisting people through scripts in microsoft cloud migrations and other things around this.
 - 📫 How to reach me Lbunter12@outlook.com(Personal) or Lachlan.Bunter@alchatex.com(Business)
